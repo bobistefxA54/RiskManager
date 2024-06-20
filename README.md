@@ -6,8 +6,19 @@
 Open RiskManagementBot.cs and copy the code
 
 ### Step 2 
-Open cTrader and navigate to the Automate tab
+Open cTrader and navigate to the "Automate" tab
 ![image](https://github.com/bobistefxA54/RiskManager/assets/157811229/21b38887-2227-4177-9fd9-b3228fc73ed2)
 
+### Step 3
+Click on "New" and choose a name for the bot
+![image](https://github.com/bobistefxA54/RiskManager/assets/157811229/252ee33c-3c7b-4ce7-82e9-d5b39696906b)
 
-Step 3
+### Step 4
+Click on the tab below the bot's name and at the bottom of the screen you will be able to enter how much you wish to risk per position
+![image](https://github.com/bobistefxA54/RiskManager/assets/157811229/8ac38259-3d23-4786-bcff-16cb4732fe23)
+
+### Step 5
+Click the green play button to run the bot
+
+---
+NOTE: The bot will calculate and adjust position sizing IF it's RUNNING and ONLY on pending orders. The position sizing will not be adjusted if the bot is not running.
