@@ -9,6 +9,6 @@ Open RiskManagementBot.cs and copy the code
 ### Step 2 
 <br/>
 Open cTrader and navigate to the Automate tab
-![step1](https://github.com/bobistefxA54/RiskManager/assets/157811229/5d9656a5-385b-447c-8fb0-ad7904ce1964)
+![step1](https://github.com/bobistefxA54/RiskManager/assets/157811229/c7f8f79b-b761-471e-bce8-203386780633)
 
 Step 3
