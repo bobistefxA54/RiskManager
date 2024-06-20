@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiskManager", "RiskManager\RiskManager.csproj", "{DFA0FEE0-5161-4FA3-BC88-8E1B2C3D9A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA0FEE0-5161-4FA3-BC88-8E1B2C3D9A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA0FEE0-5161-4FA3-BC88-8E1B2C3D9A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA0FEE0-5161-4FA3-BC88-8E1B2C3D9A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA0FEE0-5161-4FA3-BC88-8E1B2C3D9A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CAF48A9-3A37-44ED-80E9-FE638A94D2D2}
+	EndGlobalSection
+EndGlobal
